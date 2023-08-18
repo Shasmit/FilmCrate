@@ -1,0 +1,6 @@
+flutter test .\test\unit_test\ --coverage
+dart run build_runner build --delete-conflicting-outputs
+flutter build apk --split-per-abi
+flutter build appbundle
+flutter pub run build_runner build
+

@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "64bdf5f8aa57b733524a7439",
+        "user": "64b81cfd5b7558f9e35af14e",
+        "movieId": "346698",
+        "movieDetails": {
+          "id": "346698",
+          "title": "Barbie",
+          "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+          "_id": "64bdf5f8aa57b733524a743a"
+        },
+        "timestamp": "2023-07-24T03:54:32.924Z",
+        "__v": 0
+      }
+      
+]

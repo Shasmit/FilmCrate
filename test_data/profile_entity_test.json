@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "64b81cfd5b7558f9e35af14e",
+        "username": "ssid",
+        "email": "suprembro@gmail.com",
+        "password": "ssid1234",
+        "confirmPassword": "ssid1234",
+        "image": "IMG-1690305338554.jpg",
+        "watchlist": [
+          "298618",
+          "155",
+          "346698",
+          "240",
+          "872585"
+        ],
+        "totalMoviesReviewed": 0,
+        "__v": 7,
+        "isUserLoggedIn": true
+      }
+]
