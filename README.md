@@ -43,7 +43,7 @@ The FilmCrate application offers the following functionalities:
 1. Clone this repository to your local machine using `git clone`.
 
 ```bash
-git clone https://github.com/SoftwaricaCollege/final-assignment-Shasmit.git
+git clone https://github.com/Shasmit/FilmCrate.git
 
 ```
 
@@ -52,7 +52,7 @@ git clone https://github.com/SoftwaricaCollege/final-assignment-Shasmit.git
 3. Navigate to the project directory.
 
 ```bash
-cd filmcrate
+cd filmCrate
 ```
 
 4. Install required packages
