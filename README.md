@@ -61,8 +61,21 @@ cd filmCrate
 flutter pub get
 ```
 
-5. Connect your mobile device or emulator.
-6. Run the app.
+5. Clone the API server from
+```bash
+git clone https://github.com/Shasmit/FilmCrate-Server.git
+
+1. Then, install the node_modules using
+npm install
+
+2. Then, create a public/uploads folder
+
+3. And, then run the server using
+npm run dev
+```
+
+6. Connect your mobile device or emulator.
+7. Run the app.
 
 ```bash
 flutter run
